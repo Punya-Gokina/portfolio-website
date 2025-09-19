@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-image: url("background.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.header {
+  display: block;
+  align-items: center;
+  justify-content: left;
+  font-size: 1.3rem;
+  font-weight: lighter;
+  letter-spacing: 1px;
+  align-items: center;
+  padding-top: 100px;
+}
+.subHeader {
+  display: block;
+  justify-content: left;
+}
